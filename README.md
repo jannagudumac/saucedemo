@@ -1,6 +1,6 @@
 # Selenium Exercises – Node.js
 
-Automatisation avec Selenium WebDriver sur [SauceDemo](https://www.saucedemo.com) et [UITesting Playground](https://www.uitestingplayground.com).
+Automatisation avec Selenium WebDriver sur [SauceDemo](https://www.saucedemo.com)
 
 ---
 
