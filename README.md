@@ -8,18 +8,18 @@ Automatisation avec Selenium WebDriver sur [SauceDemo](https://www.saucedemo.com
 
 Ouvrez un terminal dans le dossier du projet et lancez :
 
-npm init -y
-npm install selenium-webdriver
+    npm init -y
+    npm install selenium-webdriver
 
 
 ## Lancer les scripts
 
-Pour exécuter chaque script :
-
-node login_and_list_products.js   # login + récupérer produits
-node progress_bar.js              # barre de progression jusqu'à 75%
-node alerts.js                     # interactions avec alert/confirm/prompt
-node scroll_to_hidden.js           # scroller et cliquer sur bouton caché
+    Pour exécuter chaque script :
+    
+    node login_and_list_products.js   # login + récupérer produits
+    node progress_bar.js              # barre de progression jusqu'à 75%
+    node alerts.js                     # interactions avec alert/confirm/prompt
+    node scroll_to_hidden.js           # scroller et cliquer sur bouton caché
 
 ## Points difficiles 
 
